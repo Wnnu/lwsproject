@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.yz{
+	position: absolute;
+	left: 28.95%;
+	top: 21.16%;
+	width: 42.42%;
+	height: 45.98%;
+	border-radius: 5PX;
+	background: rgba(3,3,3,.9);
+}
+.yz p{
+	font-size: 16px;
+	color: #fff;
+	padding-top: 50px;			
+	padding-left: 63px;
+}
+.yz .ipt{
+	box-sizing: border-box;
+	padding-left: 10px;
+	width: 70.71%;
+	height: 29px;
+	background: #fff;
+	margin: 0 auto;
+	border-radius: 3px;
+	left: 14.64%;
+	position: absolute;
+	top:32.52%;
+}
+.yz .fx{
+	margin: 0 auto;
+	width: 71%;
+	height: 2%;
+	color: #fff;
+	font-size: 12px;
+	margin-top: 50px;
+}
+.yz .fx .ipt1{
+	width: 11px;
+	height: 11px;
+	margin-left: 18px;
+}
+.yz .let1{
+    width: 34.49%;
+    position: absolute;
+    left: 14.64%;
+    top: 69.11%;
+    height: 37px;
+    background: url(../images/btn_confirm_on.png);
+    background-size: 100% 100%;
+    border-radius: 3px;
+}
+.yz .let1:hover{
+	background: url(../images/btn_confirm_off.png);
+    background-size: 100% 100%;
+    background-color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.yz .let2:hover{
+	background: url(../images/btn_cancel_off.png);
+    background-size: 100% 100%;
+    background-color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.yz .let2{
+    width: 34.49%;
+    position: absolute;
+    left: 51.36%;
+    top: 69.11%;
+    height: 37px;
+    background: url(../images/btn_cancel_on.png);
+    background-size: 100% 100%;
+    border-radius: 3px;
+}

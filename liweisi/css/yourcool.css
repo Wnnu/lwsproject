@@ -1,0 +1,353 @@
+    *{
+            margin: 0;
+            padding: 0;
+            list-style:none;
+        }
+        .zmain{
+            min-width:660px;
+            max-width:1280px;
+            width:100%;
+            height:521px;
+            padding-top:102px;
+          /*  background:url("images/pic_14.jpg") center center no-repeat;*/
+            /*background-size:cover;*/
+            box-sizing: border-box;
+            margin:0 auto;
+            overflow:hidden;
+            position:relative;
+        }
+        .zmain1{
+           /* min-width:6rem;
+            max-width:12.8rem;*/
+            width:100%;
+            /*height:3.75rem;*/
+            height: 100%;
+            /*padding-top:1.02rem;*/
+            background:url("../images/Layer68.png") no-repeat;
+            background-size:cover;
+            /*box-sizing: border-box;*/
+            /*margin:0 auto;
+            overflow:hidden;
+            position:relative;*/
+        }
+/*      .zmain>#datu{
+            width:100%;
+            height:3.75rem;
+            position:absolute;
+            bottom:0rem;
+        }*/
+        .zmainzi>p{
+            font-size:16px;
+        }
+        .xieyi{
+            font-size:16px;
+        }
+        .zbofang{
+            width:107px;
+            height:107px;
+            position:absolute;
+            bottom:134px;
+            left:/*5.865rem*/50%;
+            margin-left: -53.5px;
+        }
+        .zbofang>img{
+            width:100%;
+            display:table;
+        }
+        .zmainzi{
+            min-width:660px;
+            max-width:1280px;
+            width:100%;
+            height:122px;
+            position:relative;
+        }
+        .zmainzi>p:nth-child(1){
+            margin-top: 24px;
+            font-size:20px;
+            /*padding:23px 0 13px 0;*/
+            font-weight:700;
+            text-align:center;
+            line-height: 30px;
+            /*margin-bottom: 5px;*/
+        }
+        @media (max-width: 1000px) {
+            .zmainzi>p:nth-child(1){
+            font-size:18px;
+        }
+            
+        }
+        @media (max-width: 800px) {
+             .zmainzi>p:nth-child(1){
+            font-size:18px;
+        }
+            
+        }
+        .zmainzi>p:nth-child(2){
+            font-size:14px;
+            margin-top: 14px;
+            /*margin-bottom:5px;*/
+            font-weight:600;
+            text-align:center;   
+            /*line-height: 30px;*/
+        }
+        .zmainzi>p:nth-child(3){
+            font-size:14px;
+            /*margin-bottom:10px;*/
+            font-weight:600;
+            margin-top: 10px;
+            text-align:center;
+            /*line-height: 30px;*/
+        }
+        div.tiaojian{
+            /*padding-top:10px;*/
+            font-size:14px;
+            height:21px;
+            width:216px;
+            margin:0 auto;
+            margin-top: 8px;
+            /*margin-bottom: 20px;*/
+            text-align:center;
+            position:relative;
+        }
+        div.xieyi{
+            height:21px;
+            width:auto;
+            /*margin-top:0.1rem;*/
+            font-size:14px;
+            float: left;
+        /*  position:absolute;
+            left:0;
+            top:0;*/
+        }
+        #xianshi{
+            font-size:14px;
+            color:#939598;
+            /*padding-bottom:0.02rem;*/
+            float: right;
+           /* position:absolute;
+            right:0;
+            top:0;*/
+        }
+
+        div.attend{
+            margin:0 auto;
+            /*background-color:red;*/
+            width:165px;
+            height:35px;
+            /*background:url("images/button/btn_join_off.png");*/
+            /*transition:all .1s;*/
+            margin-top:23px;
+            margin-bottom:22px;
+        }
+        div.attend>#attend1>img{
+            vertical-align:top;
+        }
+        div.fenge{
+            text-align:center;
+            min-width:660px;
+            max-width:1280px;
+            width:100%;
+            height:10px;
+            /*margin-top:13px;*/
+            overflow:hidden;
+            margin-bottom: 33px;
+            /*background:url("images/line_01.png") no-repeat;*/
+
+        }
+        div.fenge img{
+            vertical-align:top;
+            width: 100%;
+        }
+        div.dibu{
+            width:100%;
+            height:36px;
+            min-width:660px;
+            max-width:1280px;
+            margin-bottom: 50px;
+
+        }
+
+        div.di{
+            width:450px;
+            height:36px;
+            margin:0 auto;
+            text-align:center;
+            clear:both;
+        }
+        .zuoxiatu{
+            width:216px;
+            height:36px;
+            /*margin-right:0.18rem;*/
+            float: right;
+        }
+        .youxiatu{
+            width:216px;
+            height:36px;
+            /*margin-left:0.18rem;*/
+            float: left;
+        }
+        .zuoxiatu>#xia1>img{
+            width:100%;
+            vertical-align:top;
+            margin-right:18px;
+        }
+        .youxiatu>#xia2>img{
+            width:100%;
+            vertical-align:top;
+            margin-right:18px;
+        }
+        /*body{
+            height: 100%;
+        }*/
+        .z-v video{
+            width: 860px;
+            /*width: 81.74%;*/
+            height: 535px;
+           position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-left: -430px;
+            margin-top: -267px;
+        }
+        .z-video{
+               /*position: relative;*/
+            z-index: 1000;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+                min-width: 950px;
+                min-height: 535px;
+            background: rgba(0, 0, 0, .9);
+            display:none;
+        }
+        .z-v{
+         /*   position: relative;*/
+            width: 100%;
+            height: 100%;
+            margin: 0 auto;
+            min-width: 950px;
+            min-height: 535px;
+
+        }
+        .close{
+            display: inline-block;
+            width: 45px;
+            height: 45px;
+           /* margin-top:25px;*/
+            background: url("../images/ico_02.png");
+            background-position: 100px 280px;
+            display: inline-block;
+            /*margin-left: 600px;*/
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-left: 430px;
+            margin-top: -257px;
+        }
+        #put{
+            transform: translateY(2px);
+        }
+
+
+
+        /*活动细则弹出*/
+            .z-activeRules{
+               position: fixed;
+               width: 100%;
+               height: 100%;
+               top: 0px;
+               display: none;
+               background: rgba(0,0,0,.9);
+               z-index: 999;
+            }
+            .z-tkwenzi{
+               width: 550px;
+               height: 78.495%;
+               /*滚动条 裁剪内容 - 提供滚动机制。*/
+               overflow-y: scroll;
+               position:absolute; 
+               margin: auto;
+               right: 0;
+               /*bottom: 0;*/
+               top: 105px;
+               left: 0;
+               color: white;
+               text-align: left;
+            }
+
+            .z-tkwenzi p{
+               float:left; 
+               font-size: 14px;
+               line-height: 24px;
+               font-weight: 300;
+               color: white;
+               margin-bottom: 25px;
+            }
+            .z-tkwenzi::-webkit-scrollbar {
+            /*设置滚动条的宽度  */
+              width: 17px;  
+            }  
+              
+            .z-tkwenzi::-webkit-scrollbar-track,  
+            .z-tkwenzi::-webkit-scrollbar-thumb {  
+              border-radius: 20px;  
+              border: 5px solid transparent;  
+            }  
+              
+            .z-tkwenzi::-webkit-scrollbar-track {  
+                  /*border inset 框内嵌效果*/
+              box-shadow: 1px 1px 6px rgba(255,255,255,.2) inset;  
+            }  
+              
+            .z-tkwenzi::-webkit-scrollbar-thumb {  
+              min-height: 20px;  
+              background-clip: content-box;  
+              box-shadow: 0 0 0 5px rgba(200,200,200,.4) inset;  
+            }  
+              
+            .z-tkwenzi::-webkit-scrollbar-corner {  
+              background: transparent;  
+            } 
+            .z-tiaokuang{
+                z-index:15;
+            }
+            #xiaobiaoti{
+                /*font-size:30px;*/
+                font-size:20px;
+                /*height:90px;*/
+                /*margin:50px auto;*/
+                margin: 0 auto;
+                margin-top: 72px;
+                margin-bottom: 14px;
+                position:relative;
+                max-width:1280px;
+                min-width:660px;
+            }
+             #xhao{
+                position:absolute;
+                right:365px;
+                width: 20px;
+                height: 20px;
+                margin: auto;
+                right: -620px;
+                top: 80px;
+                left: 0;
+            }
+
+            .z-tiaokuang>p{
+                margin-top: 20px;
+                position: relative;
+                text-align: center;
+                margin:50px auto;
+                color: white;
+                /*letter-spacing:0.08rem;*/
+                max-width: 1280px;
+                min-width: 660px;
+            }
+            .attend a{
+                display:block;
+                width:auto;
+                height:35px;
+            }

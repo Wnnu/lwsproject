@@ -1,0 +1,428 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	max-width: 1280px;
+	min-width: 660px;
+	width: 100%;
+	margin: 0 auto;
+    background-color:#e2e3e5;;
+    margin-top: 100px;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.first1{
+	 float: left;
+    margin-left: 12.890625%;
+    padding-top: 2%;
+    overflow: hidden;
+}
+
+.container .first1 img{
+	float: left;
+	width: 30.953125%;
+}
+.b-container img{
+	width: 100%;
+	display: block;
+}
+.c-container img{
+	
+	width: 100%;
+	display: block;
+}
+.d-container img{
+	width: 100%;
+	display: block;
+}
+.e-container img{
+	width: 100%;
+	display: block;
+}
+.g-container img{
+	width: 100%;
+	display: block;
+}
+.f-container img{
+	width: 100%;
+	height: 100%;
+}
+.h-container img{
+	width: 100%;
+	display: block;
+	height: 100%;
+}
+video{
+	float: left;
+    width: 54.25%;
+    overflow: hidden;
+}
+/*第一部分开始*/
+.wc{
+	width:74.21875%;
+    max-width: 1280px;
+	min-width: 660px;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 0.5%;
+}
+.c-container{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 0.5%;
+}
+.c-container .c1{
+	width: 38.42105263%;
+	float: left;
+	position: relative;
+}
+.hides{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	background-color:rgba(0,0,0,.4); 
+}
+.hides2{
+	display: inline-block;
+	color: #fff;
+	position: absolute;
+	top: 43.5%;
+	left: 39.2%;
+	font-size: 16px;
+}
+.hides3{
+	display: inline-block;
+	color: #fff;
+	position: absolute;
+	top:46%;
+	left: 41.2%;
+	font-size: 16px;
+	padding-top: 3px;
+}
+.shopping{
+	position: absolute;
+	top: 50%;
+	left: 46%;
+	width: 30px;
+	height: 30px;
+	background: url(../images/ico_02.png) -27px -220px;
+}
+.c-container .c2{
+	width: 21.26315789%;
+	float: left;
+	margin:0 0.84210526%;
+}
+.c21{
+	position: relative;
+
+}
+.hides22{
+	display: inline-block;
+	color: #fff;
+	position: absolute;
+	top: 40.5%;
+	left: 33.2%;
+	font-size: 16px;
+}
+.hides33{
+	display: inline-block;
+	color: #fff;
+	position: absolute;
+	top:47%;
+	left: 37.2%;
+	font-size: 16px;
+	padding-top: 3px;
+}
+.shopping1{
+	position: absolute;
+	top: 57%;
+	left: 45%;
+	width: 30px;
+	height: 30px;
+	background: url(../images/ico_02.png) -27px -220px;
+}
+.c22{
+	position: relative;
+	overflow: hidden;
+	margin-top: 3.94736842%;
+	
+}
+.hides34{
+	display: inline-block;
+	color: #fff;
+	position: absolute;
+	top:45%;
+	left: 37.2%;
+	font-size: 16px;
+	padding-top: 3px;
+}
+.shopping2{
+	position: absolute;
+	top: 52%;
+	left: 45%;
+	width: 30px;
+	height: 30px;
+	background: url(../images/ico_02.png) -27px -220px;
+}
+.c-container .c3{
+	width: 38.63157895%;
+	float: left;
+	position: relative;
+
+}
+/*第二部分开始*/
+.b-container{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 0.6%;
+}
+.b-container .b2{
+	width: 21.26315789%;
+	float: left;
+}
+.b-container .b21{
+	position: relative;
+	margin-bottom: 3.94736842%;
+
+}
+.b-container .b22{
+	position: relative;
+	
+}
+.b-container .b3{
+	width: 38.42105263%;
+	float: left;
+	position: relative;
+	margin:0 0.84210526%;
+}
+.b-container .b1{
+	width: 38.63157895%;
+	float: left;
+	position: relative;
+}
+/*第三部分开始*/
+.d-container{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 0.6%;
+}
+.d-container .d1{
+	width: 38.63157895%;
+	float: left;
+	position: relative;
+
+}
+.d-container .d3{
+	width: 38.42105263%;
+	float: left;
+	position: relative;
+	margin: 0 0.84210526%;
+}
+.d-container .d2{
+	width: 21.26315789%;
+	float: left;
+	position: relative;
+}
+.d-container .d21{
+	position: relative;
+}
+.d-container .d22{
+	position: relative;
+	overflow: hidden;
+	margin-top: 3.94736842%;
+}
+/*第四部分开始*/
+.e-container{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 0.6%;
+}
+.e-container .e1{
+	width: 38.63157895%;
+	float: left;
+	position: relative;
+}
+.e-container .e2{
+	width: 21.26315789%;
+	float: left;
+	margin: 0 0.84210526%;	
+}
+.e-container .e21{
+	position: relative;
+}
+.e-container .e22{
+	position: relative;
+	margin-top: 3.94736842%;
+}
+.e-container .e3{
+	width: 38.42105263%;
+	float: left;
+	position: relative;
+}
+/*第五部分开始*/
+.f-container{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 0.6%;
+}
+.f-container .f2{
+	width: 21.26315789%;
+	float: left;
+	height: 480.9px;
+}
+.f-container .f21{
+	position: relative;
+	margin-bottom:3.94736842%;
+	height: 59.085%;
+}
+.f-container .f22{
+	position: relative;
+    height: 39.234%;
+}
+.f-container .f3{
+	width: 38.63157895%;
+	float: left;
+	position: relative;
+    margin: 0 0.84210526%;
+    height: 480.9px;
+}
+.f-container .f1{
+	width: 38.42105263%;
+	float: left;
+	position: relative;
+	height: 480.9px;
+}
+/*第六部分开始*/
+.g-container{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 0.6%;
+}
+.g-container .g1{
+	width: 38.42105263%;
+	float: left;
+	position: relative;
+}
+.g-container .g3{
+	width: 38.63157895%;
+	float: left;
+	position: relative;
+	margin: 0 0.84210526%;
+}
+.g-container .g2{
+	width: 21.26315789%;
+	float: left;
+	position: relative;
+}
+.g-container .g21{
+	position: relative;
+}
+.g-container .g22{
+	position: relative;
+	overflow: hidden;
+	margin-top:3.94736842%;
+}
+/*第七部分开始*/
+.h-container{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 0.5%;
+}
+.h-container .h1{
+	width: 38.42105263%;
+	float: left;
+	position: relative;
+	height: 480.9px;
+}
+.h-container .h2{
+	width: 21.26315789%;
+	float: left;
+	margin: 0 0.84210526%;
+	height: 480.9px;
+}
+.h-container .h21{
+	position: relative;
+	height: 59.085%;
+}
+.h-container .h22{
+	position: relative;
+    margin-top:3.94736842%;
+    height: 39.324%;
+}
+.h-container .h3{
+	width: 38.63157895%;
+	float: left;
+	position: relative;
+	height: 480.9px;
+}
+/*横排图片结束*/
+.hides{
+	display: none;
+}
+/*点击购买按钮*/
+.bt{
+	position: fixed;
+	width: 130px;
+	right: 2.6%;
+	top: 60%;
+	background: #000;
+	border-radius: 5px 0 0 5px;
+	padding-top: 0.5%;	
+	padding-bottom: 0.5%;
+	z-index: 9999;	
+}
+.bt .bt1{
+	background: url(../images/btn.png) no-repeat 84px -4px;
+	margin-left: 15px;	
+}
+.bt .bt1 p{
+	color: #fff;
+	font-size:11.5px;
+}
+.bt:hover{
+background: rgba(0,0,0,.4);
+cursor: pointer;
+}
+.wc img:hover+.hides{
+	display: block;
+}
+.wc img+.hides:hover{
+	display: block;
+}
+.wc img:hover+.hides{
+    display: block;
+}
+.wc img+.hides:hover{
+    display: block;
+}
+.kb{
+	height: 75px;
+}
+/*媒体查询*/
+@media(max-width:1080px){
+	.hides p{
+		font-size: 14px;
+	}
+}
+@media(max-width:880px){
+	.hides p{
+		font-size: 12px;
+	}
+}
+@media(max-width:680px){
+	.hides p{
+		font-size: 10px;
+	}
+}

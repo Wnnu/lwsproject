@@ -1,0 +1,169 @@
+.zhuyao{
+            /*max-width:874px;*/
+            max-width:874px;
+            min-width:874px;
+            width:/*68.3593*/100%;
+            height:671px;
+            /*background-color:pink;*/
+            margin:131px auto;
+            position:relative;
+        }
+        .fenge1{
+            width:100%;
+            height:9px;
+        }
+        .fenge1 img{
+            width:100%;
+            display:table;
+        }
+        div.kutu{
+            /*width:68.28125%;*/
+            /*min-width:;*/
+            /*max-width:874px;*/
+            max-width:874px;
+            min-width:874px;
+            width:100%;
+            /*width:100%;*/
+            height:490px;
+            margin-top:10px;
+            box-sizing:border-box;
+            margin-bottom:10px;
+        }
+        img.kutu1{
+            width:100%;
+            display:table;
+/*            margin-top:0.1rem;
+            margin-bottom:0.2rem;*/
+        }
+
+        .zhutu{
+            /*text-align:center;*/
+            position:relative;
+            clear:both;
+
+        }
+
+        .z-left{
+            width:76.659039%;
+            height:38px;
+            position:absolute;
+            left:0;
+            top:517px;
+            /*box-sizing: border-box;*/
+        }
+        .z-input1{
+            box-sizing: border-box;
+            display:inline-block;
+            width:100%;
+            height:38px;
+            border-radius:5px 5px 5px 5px;
+            outline:none;
+            padding-left:10px;
+            margin-bottom:19px;
+            border:1px solid #4c4240;
+            display:table;
+        }
+
+        .z-right{
+            width:22.997712%;
+            height:38px;
+            position:absolute;
+            right:0;
+            top:517px;
+            /*box-sizing:border-box;*/
+            /*padding-left:10px;*/
+
+        }
+        .z-input2{
+            box-sizing: border-box;
+            display:inline-block;
+            width:100%;
+            height:38px;
+            border-radius:5px 5px 5px 5px;
+            outline:none;
+            padding-left: 10px;
+            margin-bottom:19px;
+            border:1px solid #4c4240;
+            display:table;
+        }
+
+        /*.z-span1*/
+        .shangspan{
+            display:block;
+            max-width:875px;
+            width:100%;
+            /*height:20px;*/
+            text-align:center;
+            font-size:16px;
+            position:absolute;
+            top:291px;
+
+            /*background-color:white;*/
+        }
+        .z-span1{
+            color:white;
+            font-size:16px;
+        }
+        .z-span2{
+            color:white;
+            font-size:34px;
+        }
+        /*.z-span2*/
+        .xiaspan{
+            display:block;
+            max-width:875px;
+            width:100%;
+            /*height:50px;*/
+            text-align:center;
+            font-size:27px;
+            position:absolute;
+            top:315px;
+            /*background-color:white;*/
+        }
+        div.fenge2{
+            width:100%;
+            height:9px;
+            position:absolute;
+            top:587px;
+        }
+        .fenge2 img{
+            width:100%;
+            display:table;
+        }
+        div.xialiang{
+/*            margin:0 auto;
+            text-align:center;*/
+            max-width:874px;
+            width:100%;
+            height:36px;
+            position:absolute;
+            bottom:0;
+        }
+        div.zuotu{
+            width:19%;
+            height:36px;
+            position:absolute;
+            /*margin-right:0.05rem;*/
+            left:29.8627%;
+           
+        }
+        div.youtu{
+            width:19%;
+            height:36px;
+            position:absolute;
+            right:29.8627%;
+            
+        }
+        div.zuotu img{
+            width:100%;
+            display:table;
+/*            position:absolute;
+            left:0;    */        
+        }
+        div.youtu img{
+            width:100%;
+            display:table;
+/*            position:absolute;
+            right:0;*/
+        }
+        
